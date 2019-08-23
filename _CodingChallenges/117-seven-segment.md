@@ -106,6 +106,12 @@ contributions:
       url: "http://anuraghazra.github.io"
     url: "https://anuraghazra.github.io/CanvasFun/sevenSegmentDisplay/"
     source: "https://github.com/anuraghazra/CanvasFun/tree/master/sevenSegmentDisplay"
+      - title: "Digital LED Clock"
+    author:
+      name: "Black Duke"
+      url: "https://github.com/BlackDuke07"
+    url: "https://editor.p5js.org/blackduke/full/Dzg9Azn6h"
+    source: "https://editor.p5js.org/blackduke/sketches/Dzg9Azn6h"
 ---
 
 In this coding challenge, I make a Seven-Segment Display with p5.js. This video is inspired by Tom Scott's: [What's The Longest Word You Can Write With Seven-Segment Displays?](https://youtu.be/zp4BMR88260).
